@@ -1,4 +1,8 @@
 create 
 read
+<<<<<<< HEAD
 update
 delete
+=======
+update
+>>>>>>> 878cfa7 (update)
